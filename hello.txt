@@ -1,4 +1,4 @@
-TESTIN SOMETHING!!
+TESTING SOMETHING!!
 
 hello world #1
 hello world #2
